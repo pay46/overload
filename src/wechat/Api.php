@@ -13,4 +13,7 @@ class Api {
         echo "sasa";
     }
 
+    static function connect(){
+        echo "econnect";
+    }
 }
